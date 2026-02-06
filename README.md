@@ -50,10 +50,38 @@ The proposed system continuously monitors environmental and physiological parame
 
 
 ## Block Diagram
+The block diagram illustrates the overall architecture of the proposed system. Multiple environmental and physiological sensors are interfaced with the Arduino microcontroller. The sensor data is continuously processed and compared against predefined safety thresholds.
+
+If any parameter exceeds the safe limit, the system activates an alert mechanism using a buzzer. Simultaneously, real-time data is displayed on the LCD module for monitoring purposes.
+
+This structured architecture ensures continuous monitoring, rapid response, and improved safety in mining environments.
+
 ![Block Diagram](block%20diagram.jpeg)
 
 
+## Prototype
 
+The hardware prototype was developed by integrating multiple sensors with the Arduino microcontroller on a compact platform. 
+
+The system includes gas detection sensors, temperature and humidity sensors, an oxygen monitoring unit, and a pulse sensor for physiological monitoring. All components were carefully calibrated and tested to ensure reliable real-time data acquisition.
+
+The prototype demonstrates the feasibility of implementing a multi-parameter safety monitoring system in hazardous mining environments.
+
+![Prototype 1](prototype1.jpeg)
+![Prototype 2](prototype2.jpeg)
+
+The system was tested under simulated environmental conditions to validate sensor responsiveness and alert accuracy.
+
+
+## Result analysis 
+
+The system successfully monitored environmental and physiological parameters in real time. Sensor readings were continuously displayed on the LCD module, and alert mechanisms were triggered whenever threshold limits were exceeded.
+
+The gas sensor responded effectively to simulated gas exposure conditions. Temperature and humidity readings were stable and consistent. The pulse sensor accurately detected heart rate variations.
+
+Overall, the prototype demonstrated reliable performance, validating the effectiveness of the proposed multi-parameter safety device.
+
+![Result](result.jpeg)
 
 
 
