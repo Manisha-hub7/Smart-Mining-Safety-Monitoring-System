@@ -50,6 +50,7 @@ The proposed system continuously monitors environmental and physiological parame
 
 
 ## Block Diagram
+![Block Diagram](block%20diagram.jpeg)
 
 
 
