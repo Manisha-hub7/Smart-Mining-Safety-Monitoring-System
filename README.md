@@ -1,6 +1,25 @@
 # IoT-Based Multi-Parameter Safety Device for Mining Environments
 An IoT-based multi-parameter mining safety monitoring system using Arduino.
 
+## Table of Contents
+
+| Section | Link |
+|---------|------|
+| Overview | [Go to Overview](#overview) |
+| Problem Statement | [Go to Problem Statement](#problem-statement) |
+| Proposed Solution | [Go to Proposed Solution](#proposed-solution) |
+| Features | [Go to Features](#features) |
+| Components Used | [Go to Components Used](#components-used) |
+| Working Principle | [Go to Working Principle](#working-principle) |
+| Block Diagram | [Go to Block Diagram](#block-diagram) |
+| Prototype | [Go to Prototype](#prototype) |
+| Result Analysis | [Go to Result Analysis](#result-analysis) |
+| My Contribution | [Go to My Contribution](#my-contribution) |
+| Future Improvement | [Go to Future Improvement](#future-improvement) |
+| Conclusion | [Go to Conclusion](#conclusion) |
+
+
+
 ## Overview
 Mining environments are inherently hazardous due to the presence of toxic gases, oxygen deficiency, extreme temperatures, and sudden health emergencies. Continuous monitoring of environmental and physiological parameters is essential to ensure miner safety. 
 
